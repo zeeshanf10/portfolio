@@ -11,7 +11,7 @@
 
   <h2 align="center">Zeeshan Zahoor - Personal portfolio</h2>
 
-This website is fully responsive personal portfolio, <br />Responsive for all devices, built using ReactJS, Bootstrap only.
+This website is fully responsive personal portfolio, <br />Responsive for all devices, built using ReactJS, Bootstrap and CSS only.
 
 <a href="https://zeeshanzahoor.netlify.app/"><strong>➥ Live Demo</strong></a>
 
@@ -48,6 +48,9 @@ git clone https://github.com/zeeshanf10/portfolio.git
 ### Contact
 
 If you want to contact with me you can reach me at [X](https://www.x.com/zshnzahoor21).
+
+Whatsapp: +923245185861
+
 
 ### License
 
