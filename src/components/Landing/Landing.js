@@ -61,7 +61,7 @@ function Landing() {
 
   const classes = useStyles();
   const downloadPdf = () => {
-    const fileUrl = 'https://drive.google.com/file/d/10G9-wZ-IRDXEBvpXNu_VSdL-rrOnCB0O/view?usp=drive_link/export?format=pdf';
+    const fileUrl = 'https://drive.google.com/file/d/1PcQrZNeuP63ySNvLv9pGPhPgYkkpLw1z/view?usp=drive_link/export?format=pdf';
     window.open(fileUrl, '_blank');
 
   };
